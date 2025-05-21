@@ -7,11 +7,9 @@
 2. 이름과 전화번호 입력 후 '저장' 버튼을 클릭하면 입력된 이름과 전화번호가 로컬 addbook.txt 파일에 저장됩니다.
 3. 저장된 정보는 웹 페이지에서 확인할 수 없지만, addbook.txt 파일 내에서 확인할 수 있습니다.
 
+![Uploading image-1.png…]()
 
-![alt text](image-1.png)
-
-![alt text](image-2.png)
-
+![Uploading image-2.png…]()
 
 ## 참고자료 
 https://github.com/Emmett6401/webApp
